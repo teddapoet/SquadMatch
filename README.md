@@ -1,4 +1,4 @@
-# SquadMatch
+![image](https://github.com/user-attachments/assets/d3ace92f-3338-4f5d-9b9f-9caa27862bda)# SquadMatch
 
 ## Description
 ### Project Structure
@@ -34,6 +34,7 @@
 ├── Gemfile                 # Gem dependencies
 ├── Gemfile.lock            # Locked gem dependencies
 └── README.md               # Project documentation
+![image](https://github.com/user-attachments/assets/389a3ca0-db1e-4b52-83f3-d41156df7acd)
 
 [//]: <> (The SquadMatch project aims to create an online platform that connects university students through various sports activities. It enables students to find friends and connect based on shared interests in sports, discover mentors for one-on-one tutoring, view local competitions, and form groups for games. We identified a common issue among our peers - many enjoy sports like badminton and basketball but struggle to find peers to play with. Since no existing platform addresses this need, SquadMatch offers a perfect solution.)
 
