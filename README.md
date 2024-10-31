@@ -2,38 +2,7 @@
 
 ## Description
 ### Project Structure
-
-├── app                     # Main application directory (models, views, controllers)
-│   ├── assets              # Frontend assets (JavaScript, CSS, images)
-│   ├── controllers         # Controller files
-│   ├── helpers             # Helper methods
-│   ├── javascript          # Javascript files
-│   ├── models              # Model files
-│   └── views               # View files
-├── config                  # Configuration files
-│   ├── environments        # Environment-specific settings
-│   ├── initializers        # Initialization scripts
-│   ├── locales             # Localization files
-│   ├── application.rb      # Configuration for application
-│   └── routes.rb           # Route definitions
-├── db                      # Database files
-│   ├── migrate             # Database migrations
-│   ├── schema.rb           # Database schema
-│   └── seeds.rb            # Sample data for seeding the database
-├── log                     # Application log files
-├── public                  # Static files and assets
-├── storage                 # Uploaded files (ActiveStorage)
-├── test                    # Unit tests
-│   ├── controllers         # Controller tests
-│   ├── fixtures            # Sample data for testing
-│   ├── integration         # Integration tests
-│   ├── models              # Model tests
-│   └── system              # System tests
-├── tmp                     # Temporary files
-├── vendor                  # External libraries and dependencies
-├── Gemfile                 # Gem dependencies
-├── Gemfile.lock            # Locked gem dependencies
-└── README.md               # Project documentation
+├── app # Main application directory (models, views, controllers) │ ├── assets # Frontend assets (JavaScript, CSS, images) │ ├── controllers # Controller files │ ├── helpers # Helper methods │ ├── javascript # Javascript files │ ├── models # Model files │ └── views # View files ├── config # Configuration files │ ├── environments # Environment-specific settings │ ├── initializers # Initialization scripts │ ├── locales # Localization files │ ├── application.rb # Configuration for application │ └── routes.rb # Route definitions ├── db # Database files │ ├── migrate # Database migrations │ ├── schema.rb # Database schema │ └── seeds.rb # Sample data for seeding the database ├── log # Application log files ├── public # Static files and assets ├── storage # Uploaded files (ActiveStorage) ├── test # Unit tests │ ├── controllers # Controller tests │ ├── fixtures # Sample data for testing │ ├── integration # Integration tests │ ├── models # Model tests │ └── system # System tests ├── tmp # Temporary files ├── vendor # External libraries and dependencies ├── Gemfile # Gem dependencies ├── Gemfile.lock # Locked gem dependencies └── README.md # Project documentation
 
 [//]: <> (The SquadMatch project aims to create an online platform that connects university students through various sports activities. It enables students to find friends and connect based on shared interests in sports, discover mentors for one-on-one tutoring, view local competitions, and form groups for games. We identified a common issue among our peers - many enjoy sports like badminton and basketball but struggle to find peers to play with. Since no existing platform addresses this need, SquadMatch offers a perfect solution.)
 
